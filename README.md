@@ -1,1 +1,2 @@
 # Text-Detection-and-Extraction-using-OpenCV-and-OCR
+This project demonstrates how to detect and extract text from images using a combination of OpenCV for image preprocessing and Tesseract OCR for text recognition. It provides a complete workflow from loading an image to drawing bounding boxes around detected text, making it a solid foundation for applications like document digitization, license plate recognition, and automated data entry
